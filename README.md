@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![7d353076f57f9e07f350bf7cec206b37](https://user-images.githubusercontent.com/44690752/227753570-374d0f08-73f4-45f8-8ad6-619b8568f86d.jpg)
-
 
 **xJHDx/xJHDx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
