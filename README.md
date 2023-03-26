@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Mesa de trabajo 112](https://user-images.githubusercontent.com/44690752/227753981-6cd04dc1-854f-4710-bc9b-115ba97d12c0.png)
+
 
 **xJHDx/xJHDx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
