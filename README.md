@@ -21,11 +21,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" width="52" alt="jira logo"  />
 </div>
 
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xJHDx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://profile-counter.glitch.me/xJHDx/count.svg?"  />
 </div>
+
+
 
 **xJHDx/xJHDx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
