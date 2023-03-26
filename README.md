@@ -20,10 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" width="52" alt="jira logo"  />
 </div>
-
-
-
-
+---
 
 **xJHDx/xJHDx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
