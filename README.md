@@ -21,9 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" width="52" alt="jira logo"  />
 </div>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/xJHDx/count.svg?"  />
-</div>
+
 
 
 
@@ -40,3 +38,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/xJHDx/count.svg?"  />
+</div>
