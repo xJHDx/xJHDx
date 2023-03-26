@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Ing_sistemas](https://user-images.githubusercontent.com/44690752/227753999-9e27d11c-c1de-490b-9a42-412ddfe19dfb.jpg)
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
