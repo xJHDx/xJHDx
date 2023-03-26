@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![Mesa de trabajo 112](https://user-images.githubusercontent.com/44690752/227753981-6cd04dc1-854f-4710-bc9b-115ba97d12c0.png)
 ![Ing_sistemas](https://user-images.githubusercontent.com/44690752/227753999-9e27d11c-c1de-490b-9a42-412ddfe19dfb.jpg)
 
 
